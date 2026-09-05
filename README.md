@@ -1,1 +1,1 @@
-# ex.peolog
+# ex.prolog
